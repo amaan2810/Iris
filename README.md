@@ -4,6 +4,8 @@ cd Users/
 cd DELL/
 cd 1Practice/
 
+(make a new repository name Iris)
+
 git config --global user.name "amaan2810"
 
 git config --global user.email amaanlakhani2810@gmail.com
