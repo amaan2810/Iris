@@ -16,10 +16,10 @@ cd Iris/
 
 (copy file to Iris folder)
 
-git add Iris-DT-RF.ipynb
+git add Iris-LogR-DT-RF-KNN-NB-XGB.ipynb
 
 git status
 
-git commit -m "adding IRIS" Iris-DT-RF.ipynb
+git commit -m "adding IRIS" Iris-LogR-DT-RF-KNN-NB-XGB.ipynb
 
 git push -u origin master
